@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/samiksha nikhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samiksha nikhare" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/samiksha nikhare](https://www.linkedin.com/in/samiksha-nikhare-1703ba23b/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samiksha nikhare" height="30" width="40" /></a>
 <a href="https://kaggle.com/nikharesamiksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nikharesamiksha" height="30" width="40" /></a>
 <a href="https://instagram.com/samikshanikhare_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samikshanikhare_16" height="30" width="40" /></a>
 </p>
